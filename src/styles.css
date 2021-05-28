@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    background: rgb(84,118,158);
+    background: radial-gradient(circle, rgba(84,118,158,1) 0%, rgba(66,71,92,1) 100%);
+}
